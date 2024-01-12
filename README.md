@@ -44,3 +44,16 @@ Income distribution by Sex <br>
 Males have more earnings than females.
 Male earns <=50k than >50k.
 Female earns <=50k than >50k.
+
+
+#### Limitations in this dataset <br>
+* Little data on capital gains and loss to be analysed with income.
+* Couldn't perform median or average and replace in any column as they represent the country dataset. It is possible when data is at state level. <br>
+
+
+### Conclusion <br>
+* Similar trends of high private jobs, occupation and income range in US population and other countries.
+* Male population having more income than females.
+* The median age of >50k income is 45 years.
+* White population has high frequency of some college, HS-grad and Bachelors degree.
+* Not much difference in pattern of analysis between US and other countries. It is noticeable to say that 80% of world census data is coming from the US.
